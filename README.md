@@ -1,4 +1,29 @@
 # compitoGEP
+![Screenshot (16)](https://github.com/cricchettoman/compitoGEP/assets/75221597/e316af94-cfbd-41d6-bcd4-ca5d1d62abec)
+
+Scenario negozio online
+
+◗ il cliente richiede l’elenco dei prodotti
+◗ il sistema propone i prodotti disponibili
+◗ il cliente sceglie i prodotti che desidera
+◗ il sistema fornisce il costo totale dei prodotti selezionati
+◗ il cliente conferma l’ordine
+◗ il sistema comunica l’accettazione dell’ordine
+
+Possibili casi d'uso:
+◗ registrare un nuovo utente
+◗ modificare i dati di un utente
+◗ acquistare un prodotto
+◗ ricercare un prodotto nel catalogo
+◗ inserire un nuovo prodotto in catalogo
+◗ modificare i dati di un prodotto
+◗ aggiungere un prodotto al carrello
+◗ controlllare se la carta inserita dal cliente è valida
+◗ modificare i dati di un prodotto (prezzo, nome)
+
+
+
+PROBLEMI GENERALI
 1. Concorrenza elevata:
 
 Problema: La concorrenza nel settore degli e-commerce per telefoni è feroce, con numerosi concorrenti che offrono prodotti simili.
