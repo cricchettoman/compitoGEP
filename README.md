@@ -1,4 +1,8 @@
 # compitoGEP
+
+![image](https://github.com/cricchettoman/compitoGEP/assets/75221597/6dfa4c8c-a7f6-402f-97d4-3f8b05a32b16)
+
+
 ![Screenshot (16)](https://github.com/cricchettoman/compitoGEP/assets/75221597/e316af94-cfbd-41d6-bcd4-ca5d1d62abec)
 
 Scenario negozio online
