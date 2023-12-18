@@ -5,6 +5,22 @@
 
 ![Screenshot (16)](https://github.com/cricchettoman/compitoGEP/assets/75221597/e316af94-cfbd-41d6-bcd4-ca5d1d62abec)
 
+Value Proposition
+Il mio e-commerce di smartphone offre una gamma completa di vantaggi per semplificare e migliorare l'esperienza di acquisto:
+
+1. **Ampia selezione:** Accedi a un vasto catalogo di smartphone delle migliori marche, modelli recenti e accessori correlati, tutto a portata di clic. La nostra piattaforma ti permette di esplorare diverse opzioni e confrontare le caratteristiche per trovare il dispositivo perfetto per te.
+
+2. **Convenienza e accessibilità 24/7:** Acquista comodamente da casa tua o ovunque tu sia, senza limiti di orario. Il nostro e-commerce è aperto 24 ore su 24, 7 giorni su 7, consentendoti di fare acquisti in base al tuo tempo e ai tuoi impegni.
+
+3. **Offerte esclusive e sconti:** Approfitta di promozioni speciali, sconti stagionali e offerte esclusive disponibili solo online. Risparmia sul costo dei tuoi smartphone preferiti e accessori aggiuntivi senza dover aspettare le tradizionali vendite al dettaglio.
+
+4. **Recensioni e feedback:** Consulta le recensioni degli acquirenti verificati per prendere decisioni informate. I feedback degli utenti ti aiutano a valutare la qualità, le funzionalità e le prestazioni dei prodotti prima di effettuare l'acquisto.
+
+5. **Consegna veloce e sicura:** Ricevi il tuo nuovo smartphone direttamente a casa tua in tempi rapidi e attraverso un servizio di consegna sicuro e affidabile. Garantiamo un processo di spedizione efficiente per garantire la tua soddisfazione.
+
+6. **Servizio clienti dedicato:** Il nostro team di assistenza clienti è disponibile per rispondere alle tue domande, fornire supporto e assistenza post-vendita per garantire un'esperienza senza problemi.
+
+
 Scenario negozio online
 
 ◗ il cliente richiede l’elenco dei prodotti
